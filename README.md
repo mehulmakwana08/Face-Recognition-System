@@ -23,7 +23,7 @@ This project is a real-time **face recognition system** using **InsightFace** fo
 ## **Installation**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/face-recognition-system.git
+   [git clone https://github.com/mehulmakwana08/Face-Recognition-System.git]
    cd face-recognition-system
    ```
 
