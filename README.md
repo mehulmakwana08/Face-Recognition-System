@@ -79,13 +79,5 @@ Pull requests are welcome! If you'd like to improve the project, feel free to co
 ## **License**
 This project is licensed under the **MIT License**.
 
----
-
-### **🔗 Connect with Me**
-📧 Email: [your email]  
-🌐 GitHub: [your GitHub profile]  
-🔗 LinkedIn: [your LinkedIn profile]  
-
----
 
 Let me know if you need any modifications before you upload this to GitHub! 🚀
